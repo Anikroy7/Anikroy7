@@ -1,7 +1,9 @@
+<section display="flex">
+  <a href="https://ibb.co/1XyZD8Y"><img height="300" width="300" src="https://i.ibb.co/094qghp/court-photo-1.jpg" alt="court-photo-1" border="0"></a>
 <h1 align="center">Hi 👋, I'm Anik roy</h1>
 <h3 align="center">A passionate full-stack-developer from Bangladesh.</h3>
-<a href="https://ibb.co/1XyZD8Y"><img src="https://i.ibb.co/094qghp/court-photo-1.jpg" alt="court-photo-1" border="0"></a>
 
+</section>
 - 🔭 I’m currently working on **Let's Connected**
 
 - 👨‍💻 All of my projects are available at [https://voluble-buttercream-2da6d9.netlify.app/](https://voluble-buttercream-2da6d9.netlify.app/)
