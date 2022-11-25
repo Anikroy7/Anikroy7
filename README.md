@@ -1,5 +1,5 @@
 <section display="flex">
-  <a href="https://ibb.co/1XyZD8Y"><img height="300" width="300" src="https://i.ibb.co/094qghp/court-photo-1.jpg" alt="court-photo-1" border="0"></a>
+  <a href="https://ibb.co/1XyZD8Y"><img height="300" width="250" src="https://i.ibb.co/094qghp/court-photo-1.jpg" alt="court-photo-1" border="0"></a>
 <h1 align="center">Hi 👋, I'm Anik roy</h1>
 <h3 align="center">A passionate full-stack-developer from Bangladesh.</h3>
 
