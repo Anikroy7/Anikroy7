@@ -1,3 +1,9 @@
+<style>
+h3{
+  color:red;
+  }
+</style>
+
 <section display="flex">
   
 <h1 align="center">
