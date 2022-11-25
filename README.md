@@ -1,10 +1,5 @@
-<style>
-h3{
-  color:red;
-  }
-</style>
 
-<section display="flex">
+
   
 <h1 align="center">
 
@@ -13,7 +8,6 @@ h3{
   </h1>
 <h3 align="center">A passionate full-stack-developer from Bangladesh.</h3>
 
-</section>
 - 🔭 I’m currently working on **Let's Connected**
 
 - 👨‍💻 All of my projects are available at [https://voluble-buttercream-2da6d9.netlify.app/](https://voluble-buttercream-2da6d9.netlify.app/)
