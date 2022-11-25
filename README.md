@@ -1,7 +1,7 @@
 
 
   <a href="https://ibb.co/1XyZD8Y"><img height="300" width="250" src="https://i.ibb.co/094qghp/court-photo-1.jpg" alt="court-photo-1" border="0"></a>
-    <span>Hi 👋, I'm Anik roy</span>
+    <h2>Hi 👋, I'm Anik roy</h2>
   
 <h3 align="center">A passionate full-stack-developer from Bangladesh.</h3>
 
