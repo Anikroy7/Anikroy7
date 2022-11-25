@@ -1,11 +1,8 @@
 
 
-  
-<h1>
-
   <a href="https://ibb.co/1XyZD8Y"><img height="300" width="250" src="https://i.ibb.co/094qghp/court-photo-1.jpg" alt="court-photo-1" border="0"></a>
-    <span margin-left="300px">Hi 👋, I'm Anik roy</span>
-  </h1>
+    <span>Hi 👋, I'm Anik roy</span>
+  
 <h3 align="center">A passionate full-stack-developer from Bangladesh.</h3>
 
 - 🔭 I’m currently working on **Let's Connected**
