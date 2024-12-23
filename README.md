@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://github.com/Anikroy7)
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="cover image"/>
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 # About ME 💬 :
 
@@ -80,9 +80,68 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
 
+<!--
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anikroy7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Anikroy7" /></p>
+                                                                                 
+,--------. ,--.                        ,--.                ,---.                 
+'--.  .--' |  ,---.   ,--,--. ,--,--,  |  |,-.   ,---.    /  .-'  ,---.  ,--.--. 
+   |  |    |  .-.  | ' ,-.  | |      \ |     /  (  .-'    |  `-, | .-. | |  .--' 
+   |  |    |  | |  | \ '-'  | |  ||  | |  \  \  .-'  `)   |  .-' ' '-' ' |  |    
+   `--'    `--' `--'  `--`--' `--''--' `--'`--' `----'    `--'    `---'  `--'    
+                                                                                 
+                                                                                  ,---. 
+   ,--.                                 ,--.                    ,--.              |   | 
+ ,-|  | ,--.--.  ,---.   ,---.   ,---.  `--' ,--,--,   ,---.    |  |-.  ,--. ,--. |  .' 
+' .-. | |  .--' | .-. | | .-. | | .-. | ,--. |      \ | .-. |   | .-. '  \  '  /  |  |  
+\ `-' | |  |    ' '-' ' | '-' ' | '-' ' |  | |  ||  | ' '-' '   | `-' |   \   '   `--'  
+ `---'  `--'     `---'  |  |-'  |  |-'  `--' `--''--' .`-  /     `---'  .-'  /    .--.  
+                        `--'    `--'                  `---'             `---'     '--'  
+                                                                                                                                              
+,------.         ,--. ,--.                                                                ,----.    ,--.   ,--.   ,--.  ,--.          ,--.    
+|  .---'  ,---.  |  | |  |  ,---.  ,--.   ,--.   ,--,--,--.  ,---.     ,---.  ,--,--,    '  .-./    `--' ,-'  '-. |  '--'  | ,--.,--. |  |-.  
+|  `--,  | .-. | |  | |  | | .-. | |  |.'.|  |   |        | | .-. :   | .-. | |      \   |  | .---. ,--. '-.  .-' |  .--.  | |  ||  | | .-. ' 
+|  |`    ' '-' ' |  | |  | ' '-' ' |   .'.   |   |  |  |  | \   --.   ' '-' ' |  ||  |   '  '--'  | |  |   |  |   |  |  |  | '  ''  ' | `-' | 
+`--'      `---'  `--' `--'  `---'  '--'   '--'   `--`--`--'  `----'    `---'  `--''--'    `------'  `--'   `--'   `--'  `--'  `----'   `---'  
+                                                                                                                                              
+                                                                                                             
+ ,----.             ,--.          ,--.   ,--.           ,--.               ,--.         ,--.                 
+'   ,  | ,--.  ,--. `--' ,--,--,  `--' ,-'  '-.  ,---.  |  ,---.   ,--,--. |  ,---.   ,-|  |  ,---.   ,---.  
+|  |   /  \  `'  /  ,--. |      \ ,--. '-.  .-' (  .-'  |  .-.  | ' ,-.  | |  .-.  | ' .-. | | .-. : | .-. | 
+'  '--'|   \    /   |  | |  ||  | |  |   |  |   .-'  `) |  | |  | \ '-'  | |  | |  | \ `-' | \   --. ' '-' ' 
+ `----'     `--'    `--' `--''--' `--'   `--'   `----'  `--' `--'  `--`--' `--' `--'  `---'   `----'  `---'  
+                                                                                                             
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anikroy7&show_icons=true&locale=en&theme=tokyonight" alt="Anikroy7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anikroy7&&theme=tokyonight" alt="Anikroy7" /></p>
+
+
+--->
+
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=vinitshahdeo&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/vinitshahdeo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
+
+<br />
+<a href="https://www.google.com/search?q=Vinit+Shahdeo">
+  <table align="left">
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://vinitshahdeo.dev">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my blog!
+          </td>
+      </tr>
+  </table>
+</a>
