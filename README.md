@@ -1,6 +1,6 @@
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anikroy7&&theme=xcode)](https://github.com/Anikroy7)
+[![Anik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anikroy7&&theme=xcode)](https://github.com/Anikroy7)
 ****    <h2>Hi 👋, I'm Anik roy</h2>
   <picture>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api?username=Anikroy7)](https://github.com/Anikroy7/github-readme-stats)
