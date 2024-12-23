@@ -1,30 +1,24 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="cover image"/>
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-# About ME 💬 :
+<h1 align="center">Hi 👋, I'm Anik Roy</h1>
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### 💬 I am a skilled Full Stack Developer with a passion for building robust and scalable web applications.Currently, I am en exploring DevOps practices to deliver efficient and seamless development workflows.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="200" width="300" alt="GIF" align="right" src="./devcard.png">
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Next Bazaar Web App**
 
-- 🌱 I’m currently learning **DevOps**
+- 💬 Ask me about **Laravel, MERN**
 
-- 💬 Ask me about **Android , MEARN**
+- 📫 How to reach me **anikkumerroy70@gmail.com**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am non-cse**
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ DevOps
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Music Addict
 
 </br>
 </br>
