@@ -3,7 +3,7 @@
   <a href="https://ibb.co/1XyZD8Y"><img height="300" width="250" src="https://i.ibb.co/094qghp/court-photo-1.jpg" alt="court-photo-1" border="0"></a>
     <h2>Hi 👋, I'm Anik roy</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anikroy7&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture>
 
