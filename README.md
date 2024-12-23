@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://github.com/Anikroy7)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikRoy7&show_icons=true&theme=transparent)
 
 <!-- Making the second image smaller by adjusting width -->
 <a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
