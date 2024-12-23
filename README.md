@@ -30,16 +30,18 @@
 
 ### Tech Stack
 
-I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
+I specialize in **JavaScript** and **TypeScript**, leveraging **Node.js** and **Laravel** for backend development. My expertise spans frameworks like **React** and **Next.js**, state management with **Redux Toolkit**, and data handling using **Prisma**, **Redis** and **Mongoose** for data handling. I work with **PostgreSQL**, **MySQL**, and **Tailwind CSS** for modern, scalable applications.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)
