@@ -4,8 +4,7 @@
 ### My stats ⭐
 
 <div align="center">
-<img alt="Aniks's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anikroy7&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikroy7&layout=compact&&langs_count=8"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anikroy7)](https://git.io/streak-stats)<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikroy7&layout=compact&&langs_count=8"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️
