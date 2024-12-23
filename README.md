@@ -1,7 +1,7 @@
 
 
-  <a href="https://ibb.co/1XyZD8Y"><img height="300" width="250" src="https://i.ibb.co/094qghp/court-photo-1.jpg" alt="court-photo-1" border="0"></a>
-    <h2>Hi 👋, I'm Anik roy</h2>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anikroy7&&theme=xcode)](https://github.com/Anikroy7)
+****    <h2>Hi 👋, I'm Anik roy</h2>
   <picture>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api?username=Anikroy7)](https://github.com/Anikroy7/github-readme-stats)
 </picture>
