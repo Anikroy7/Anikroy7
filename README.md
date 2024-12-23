@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <!-- Making the second image smaller by adjusting width -->
-<a href="https://app.daily.dev/Anikroy7"><img src="https://github.com/Anikroy7/Anikroy7/blob/main/devcard.png" width="356" alt="Francesco's Dev Card"/></a>
+<a href="https://app.daily.dev/Anikroy7"><img src="https://github.com/Anikroy7/Anikroy7/blob/main/devcard.png" width="356" alt="Aniks's Dev Card"/></a>
 
 
 
