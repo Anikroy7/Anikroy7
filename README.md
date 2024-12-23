@@ -2,7 +2,7 @@
 
 ****    <h2>Hi 👋, I'm Anik roy</h2>
 ### My stats ⭐
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anik's github stats](https://github-readme-stats.vercel.app/api?username=Anikroy7)](https://github.com/Anikroy7/next-bazaar-client)
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>  
   
