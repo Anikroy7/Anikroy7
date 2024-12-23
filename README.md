@@ -1,10 +1,16 @@
 
 
-[![Anik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anikroy7&&theme=xcode)](https://github.com/Anikroy7)
 ****    <h2>Hi 👋, I'm Anik roy</h2>
-  <picture>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api?username=Anikroy7)](https://github.com/Anikroy7/github-readme-stats)
-</picture>
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+</div>
+
+### Profile views counter 👁️‍🗨️
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
+
 
 <h3 align="center">A passionate full-stack-developer from Bangladesh.</h3>
 
