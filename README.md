@@ -24,6 +24,9 @@
 <a href="https://www.linkedin.com/in/anik-roy-a14185241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-roy-b89a791b3" height="30" width="40" /></a>
 <a href="https://x.com/kumer_roy81050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikroy" height="30" width="40" /></a>
 <a href=discordapp.com/users/993545931934929009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anik_roy" height="30" width="40" /></a>
+  <a href="https://wa.me/8801786335131" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
 </p>
 </br>
 
