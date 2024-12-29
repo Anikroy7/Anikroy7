@@ -1,4 +1,4 @@
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="cover image"/>
+<img src="https://i.ibb.co.com/8D3Pfqs/1.png" width="100%" height="300px" alt="cover image"/>
 <h1 align="center">Hi 👋, I'm Anik Roy</h1>
 
 ### 💬 I am a skilled Full Stack Developer with a passion for building robust and scalable web applications. Currently, I am en exploring DevOps practices to deliver efficient and seamless development workflows.
